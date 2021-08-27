@@ -1,0 +1,6 @@
+[debug]
+address = "127.0.0.1"
+port = 8221
+workers = 160
+log = "normal"
+limits = { forms = 32768 }
